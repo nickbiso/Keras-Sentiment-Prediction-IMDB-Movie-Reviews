@@ -4,15 +4,15 @@
  
  
 ### Model Accuracy: 85.35%
-
-
+<br>
+<br>
 
 ## Sample Predictions
 
 
 ### Sample 1
 
-**PREDICTION:[ 0.94032401]% Positive**
+**PREDICTION: 0.94032401% Positive**
 
 **ACTUAL: Positive**
 >to be the next best thing since x files but as always nothing will ever take down that show in my opinion i am telling you it's scary and then suspenseful and then mellow towards the end you have miles as a love puppy with a weird pet that is a new species you have two people on the run from authorities and a killer tsunami about to strike wow and did i mention miles pet is a potential killer well the rest of his species is surface is a brilliant show with spins and twists that delivers it all
@@ -21,7 +21,7 @@
 
 ### Sample 2
 
-**PREDICTION:[ 0.03893274]% Positive**
+**PREDICTION: 0.03893274% Positive**
 
 **ACTUAL: Negative**
 
