@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## Sample Predictions
+# Sample Predictions
 
 
 ### Sample 1
